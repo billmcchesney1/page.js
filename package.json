@@ -33,7 +33,7 @@
     "jade": "^1.7.0",
     "jscoverage": "^0.5.9",
     "jsdom": "^11.5.1",
-    "jshint": "^2.5.10",
+    "jshint": "^2.13.0",
     "mocha": "^2.0.1",
     "mocha-lcov-reporter": "0.0.1",
     "rollup": "^0.54.1",
