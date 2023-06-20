@@ -31,7 +31,7 @@
     "engine-dependencies": "^0.2.12",
     "express": "^4.10.2",
     "jade": "^1.7.0",
-    "jscoverage": "^0.5.9",
+    "jscoverage": "^0.6.0",
     "jsdom": "^11.5.1",
     "jshint": "^2.5.10",
     "mocha": "^2.0.1",
