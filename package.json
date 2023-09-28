@@ -32,7 +32,7 @@
     "express": "^4.10.2",
     "jade": "^1.7.0",
     "jscoverage": "^0.5.9",
-    "jsdom": "^11.5.1",
+    "jsdom": "^16.6.0",
     "jshint": "^2.5.10",
     "mocha": "^2.0.1",
     "mocha-lcov-reporter": "0.0.1",
