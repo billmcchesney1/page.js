@@ -23,7 +23,7 @@
     "make": "rollup -c rollup.config.js"
   },
   "dependencies": {
-    "path-to-regexp": "~1.2.1"
+    "path-to-regexp": "~1.9.0"
   },
   "devDependencies": {
     "chai": "^1.10.0",
